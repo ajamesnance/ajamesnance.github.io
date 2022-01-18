@@ -20,6 +20,6 @@ English Composition I: Literary Analysis, fall 2013<br>
 **Victoria University, International Institute of Modern Letters (Visiting Lecturer)**<br>
 Advanced Poetry Workshop, summer 2013<br>
 
-**University of Iowa**<br>
+**University of Iowa (Instructor of Record)**<br>
 Creative Writing Workshop, fall 2011<br>
 Creative Writing Studio Workshop, fall 2011<br>
