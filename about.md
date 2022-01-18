@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: about
 title: about
 ---
 ![Andrew James Nance](https://github.com/ajamesnance/ajamesnance.github.io/blob/main/nance.jpg?raw=true)<br><br><br><br>
