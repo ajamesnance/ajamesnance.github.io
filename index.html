@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div class="header">
+    <h2>Andrew James Nance</h2>
+    <ul>
+        {% for item in site.data.navigation %}
+        <li>
+            <a href="{{ item.url }}">{{ item.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
