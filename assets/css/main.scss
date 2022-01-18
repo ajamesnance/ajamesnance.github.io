@@ -188,6 +188,8 @@ b {
 			margin-bottom: 15px;
 		}
 		a {
+			target-name:new;
+			target-new:tab;
 			padding-bottom: 1px;
 			border-bottom: dotted 1px blue;
 			&:hover {
