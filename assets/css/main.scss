@@ -270,7 +270,7 @@ b {
 		margin-bottom: 10px;
 	}
 	&__content {
-		margin-top: 20px;
+		margin-top: 2px;
 		h1 {
 			font-size: 1.2em;
 			font-style: italic;
@@ -283,11 +283,13 @@ b {
 			margin-bottom: 10px;
 		}
 		a {
-		  color: $color-black;
-		  text-decoration: none;
-		  &:visited {
-			color: $color-black;
-			text-decoration: none;
+		  padding-bottom: 1px;
+			border-bottom: dotted 1px blue;
+			&:hover {
+				color: $color-black;
+				text-decoration: none;
+				padding-bottom: 1px;
+				border-bottom: 1px dotted black;
 		  }
 		  &:hover {
 				color: $color-black;
@@ -299,5 +301,20 @@ b {
 			text-decoration: none;
 		  }
 		}
+		img {
+			margin-top: 0px;
+			margin-right: 0px;
+			margin-bottom: 0px;
+			float: none;
+			clear: both;
+			height: auto;
+			width: 100%;
+			@media screen and (max-width: $br) {
+				padding: 0px 0 0px 0;
+				height: auto;
+				width: 100%;
+				float: none;
+				clear: both;
+			}
 	}
 }
