@@ -4,7 +4,7 @@ title: poems
 ---
 **Poems**<br>
 *Los Angeles Review of Books Quarterly Journal* // [“Second Nature”](ajamesnance.github.io/assets/LARB - Second Nature.pdf){:target="_blank"}{:rel="noopener noreferrer"}<br>
-*Gulf Coast* // [“Inverted Halo”](http://www.gulfcoastmag.org/journal/28.1/inverted-halo/){:target="_blank"}{:rel="noopener noreferrer"}<br>
+*Gulf Coast* // [“Inverted Halo”](ajamesnance.github.io/assets/Gulf Coast-Inverted Halo.pdf){:target="_blank"}{:rel="noopener noreferrer"}<br>
 *OmniVerse* // [*from* “Wharf”](http://omniverse.us/2014-omnidawn-1st2nd-poetry-book-contest-finalists/){:target="_blank"}{:rel="noopener noreferrer"}<br>
 *Spork* // [six poems](http://sporkpress.com/sporklet/06_15/nance.htm){:target="_blank"}{:rel="noopener noreferrer"}<br>
 *Powder Keg* // [three poems](http://www.powderkegmagazine.com/andrew-nance){:target="_blank"}{:rel="noopener noreferrer"}<br>
