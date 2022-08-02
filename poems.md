@@ -3,7 +3,7 @@ layout: post
 title: poems
 ---
 **Poems**<br>
-*Los Angeles Review of Books Quarterly Journal* // [“Second Nature”](andrewnance.github.io/assets/Second Nature.pdf){:target="_blank"}{:rel="noopener noreferrer"}<br>
+*Los Angeles Review of Books Quarterly Journal* // [“Second Nature”]([andrewnance.github.io/assets/Second Nature.pdf](https://github.com/ajamesnance/ajamesnance.github.io/blob/664be27436cfbcf6e30577b8c5ec81f545be42f5/assets/LARB%20-%20Second%20Nature.pdf)){:target="_blank"}{:rel="noopener noreferrer"}<br>
 *Gulf Coast* // [“Inverted Halo”](http://www.gulfcoastmag.org/journal/28.1/inverted-halo/){:target="_blank"}{:rel="noopener noreferrer"}<br>
 *OmniVerse* // [*from* “Wharf”](http://omniverse.us/2014-omnidawn-1st2nd-poetry-book-contest-finalists/){:target="_blank"}{:rel="noopener noreferrer"}<br>
 *Spork* // [six poems](http://sporkpress.com/sporklet/06_15/nance.htm){:target="_blank"}{:rel="noopener noreferrer"}<br>
