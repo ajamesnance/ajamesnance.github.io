@@ -9,7 +9,7 @@ title: poems
 *Spork* // [six poems](http://sporkpress.com/sporklet/06_15/nance.htm){:target="_blank"}{:rel="noopener noreferrer"}<br>
 *Powder Keg* // [three poems](http://www.powderkegmagazine.com/andrew-nance){:target="_blank"}{:rel="noopener noreferrer"}<br>
 *The Volta* // [“Hagiography (2)”](http://www.thevolta.org/twstbs-poem135-anance.html){:target="_blank"}{:rel="noopener noreferrer"}<br>
-*The Literary Review* // [“Love in the Age of Assange”](andrewnance.github.io/assets/Love in the Age of Assange.pdf){:target="_blank"}{:rel="noopener noreferrer"}<br>
+*The Literary Review* // [“Love in the Age of Assange”]([andrewnance.github.io/assets/Love in the Age of Assange.pdf](https://github.com/ajamesnance/ajamesnance.github.io/blob/f76dc819307f3c411c46960201fd7f146873515a/assets/Love%20in%20the%20Age%20of%20Assange.pdf)){:target="_blank"}{:rel="noopener noreferrer"}<br>
 *Colorado Review* // [“Deposition”](andrewnance.github.io/assets/Deposition.pdf){:target="_blank"}{:rel="noopener noreferrer"}<br>
 *The Winter Anthology* // [“Church Without Bells”](https://winteranthology.com/?vol=5&author=nance&title=church-sans){:target="_blank"}{:rel="noopener noreferrer"}<br>
 *Prelude* // [three poems](https://preludemag.com/posts/hagiography-3/){:target="_blank"}{:rel="noopener noreferrer"}<br>
