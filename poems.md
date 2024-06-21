@@ -19,7 +19,7 @@ title: poems
 *Linebreak* // [“Discharge”](https://linebreak.org/poems/discharge/){:target="_blank"}{:rel="noopener noreferrer"}<br>
 *Narrative* // [“Odyssey”](http://www.narrativemagazine.com/issues/poems-week-2012-2013/poem-week/odyssey-andrew-nance){:target="_blank"}{:rel="noopener noreferrer"}<br>
 *Turbine* // [three poems](http://nzetc.victoria.ac.nz/iiml/turbine/Turbi12/poetry/t1-g1-g1-t14-g1-t1-body-d1.html){:target="_blank"}{:rel="noopener noreferrer"}<br>
-*Petri Press* // [four poems](http://www.petripress.org/search/label/Andrew%20Nance){:target="_blank"}{:rel="noopener noreferrer"}<br>
+*Petri Press* // [four poems]{:target="_blank"}{:rel="noopener noreferrer"}<br>
 
 **In Translation**<br>
 *Al-Araby al-Jadeed* //<br>
