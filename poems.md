@@ -8,18 +8,18 @@ title: poems
 *OmniVerse* // [*from* “Wharf”](http://omniverse.us/2014-omnidawn-1st2nd-poetry-book-contest-finalists/){:target="_blank"}{:rel="noopener noreferrer"}<br>
 *Spork* // [six poems](http://thisissporkpress.com/sporklet/06_15/nance.html){:target="_blank"}{:rel="noopener noreferrer"}<br>
 *Powder Keg* // [three poems](http://www.powderkegmagazine.com/andrew-nance){:target="_blank"}{:rel="noopener noreferrer"}<br>
-*The Volta* // [“Hagiography (2)”](http://www.thevolta.org/twstbs-poem135-anance.html){:target="_blank"}{:rel="noopener noreferrer"}<br>
+*The Volta* // [“Hagiography (2)”]<br>
 *The Literary Review* // [“Love in the Age of Assange”](ajamesnance.github.io/assets/TLR-Love in the Age of Assange.pdf){:target="_blank"}{:rel="noopener noreferrer"}<br>
 *Colorado Review* // [“Deposition”](ajamesnance.github.io/assets/Colorado Review-Deposition.pdf){:target="_blank"}{:rel="noopener noreferrer"}<br>
 *The Winter Anthology* // [“Church Without Bells”](https://winteranthology.com/?vol=5&author=nance&title=church-sans){:target="_blank"}{:rel="noopener noreferrer"}<br>
 *Prelude* // [three poems](https://preludemag.com/posts/hagiography-3/){:target="_blank"}{:rel="noopener noreferrer"}<br>
-*RealPoetik* // [two poems](http://www.realpoetik.club/2014/05/andrew-nance_29.html){:target="_blank"}{:rel="noopener noreferrer"}<br>
+*RealPoetik* // [two poems]<br>
 *Guernica* // [“Cameraman”](https://www.guernicamag.com/cameraman/){:target="_blank"}{:rel="noopener noreferrer"}<br>
 *Better* // [two poems](http://bettermagazine.org/004/andrewnance.html){:target="_blank"}{:rel="noopener noreferrer"}<br>
-*Linebreak* // [“Discharge”](https://linebreak.org/poems/discharge/){:target="_blank"}{:rel="noopener noreferrer"}<br>
+*Linebreak* // [“Discharge”]<br>
 *Narrative* // [“Odyssey”](http://www.narrativemagazine.com/issues/poems-week-2012-2013/poem-week/odyssey-andrew-nance){:target="_blank"}{:rel="noopener noreferrer"}<br>
 *Turbine* // [three poems](http://nzetc.victoria.ac.nz/iiml/turbine/Turbi12/poetry/t1-g1-g1-t14-g1-t1-body-d1.html){:target="_blank"}{:rel="noopener noreferrer"}<br>
-*Petri Press* // [four poems]{:target="_blank"}{:rel="noopener noreferrer"}<br>
+*Petri Press* // [four poems]<br>
 
 **In Translation**<br>
 *Al-Araby al-Jadeed* //<br>
